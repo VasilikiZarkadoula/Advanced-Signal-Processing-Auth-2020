@@ -40,7 +40,7 @@ function [bisp,freq,cum,lag]=bisp3cum(signal,samprate,maxlag,window,scale)
 %
 %	Example:
 %
-%	» [b,f,c,l]=bisp3cum([1-i -1+i],1,1)
+%	Â» [b,f,c,l]=bisp3cum([1-i -1+i],1,1)
 %
 %	b =
 %

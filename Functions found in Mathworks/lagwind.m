@@ -20,7 +20,7 @@ function wind=lagwind(lag,window)
 %
 %	Example:
 %
-%	» w=lagwind(4,'parzen')
+%	Â» w=lagwind(4,'parzen')
 %
 %	w =
 %

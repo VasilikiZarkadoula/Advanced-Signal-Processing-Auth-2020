@@ -15,7 +15,7 @@ function mat=toep(column,row)
 %
 %	Example:
 %
-%	» m=toep((1:3)'*(1+i),[1+i (4:6)*(1-i)])
+%	Â» m=toep((1:3)'*(1+i),[1+i (4:6)*(1-i)])
 %
 %	m =
 %
